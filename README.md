@@ -28,15 +28,15 @@ The code is designed to facilitate the analysis of open-source projects. The ins
 To run scripts locally, it is suggested to prepare `Python 3.8` and `Go 1.21.5` (or newer version) on the system.
 
 ```bash
-git clone https://github.com/fish98/container_bugs.git
-cd container_bugs
+git clone https://github.com/fish98/CRS_Bugs.git
+cd CRS_Bugs
 mkdir Source_Code Test Sample Collection # For storing experiment data
 pip install -r requirements.txt
 ```
 
 ## Experiment Instructions
 
-1. **Replace ALL the placeholder `{ROOT_DIR}` in the source with the path to the source code of this project.** (e.g., `root_dir = "/root/container_bugs`)
+1. **Replace ALL the placeholder `{ROOT_DIR}` in the source with the path to the source code of this project.** (e.g., `root_dir = "/root/CRS_Bugs`)
 
 2. The config file for the project could be changed for analyzing different open-source project. The example is shown below:
 ```json
