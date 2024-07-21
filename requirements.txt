@@ -1,0 +1,7 @@
+oauth2client
+gspread
+pyperclip
+requests
+bs4
+lxml
+html5lib
