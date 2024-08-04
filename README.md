@@ -7,9 +7,11 @@
 
   <p align="center">
   <br>
-    <a href="https://sites.google.com/view/understand-bugs-in-crs"><strong>Project Page</strong></a>
+    <a href="https://sites.google.com/view/understand-bugs-in-crs"><strong>Project Website</strong></a>
     |
-    <a href="https://2024.issta.org/details/issta-2024-papers/109/Bugs-in-Pods-Understanding-Bugs-in-Container-Runtime-Systems"><strong>Paper</strong></a>
+    <a href="https://2024.issta.org/details/issta-2024-papers/109/Bugs-in-Pods-Understanding-Bugs-in-Container-Runtime-Systems"><strong>Conference</strong></a>
+    |
+    <a href="https://ttfish.cc/content/Papers/ISSTA24.pdf"><strong>Paper</strong></a>
   </p>
 </p>
 
@@ -20,7 +22,7 @@ The code is designed to facilitate the analysis of open-source projects. The ins
 ## Overview
 
 <div>
-<img src="./img/Methodology.png     ">
+<img src="./img/Methodology.png">
 </div>
 
 ## Requirements
